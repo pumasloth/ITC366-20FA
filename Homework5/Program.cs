@@ -290,10 +290,9 @@
             // Do until the user enters 999.
             while (num != QUIT)
             {
-                // numbers[x] = num;
                 // Add the number to the list.
                 numbers.Add(num);
-                // total += num;
+                // numbers[x] = num;
                 // total += numbers[x];
                 // ++x;
                 Console.Write("Please enter a number or " +
